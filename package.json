@@ -1,0 +1,17 @@
+{
+  "name": "nodealarm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "beepbeep": "^1.2.1",
+    "node-cron": "^1.2.1",
+    "node-notifier": "^5.2.1",
+    "play-sound": "^1.1.2"
+  }
+}
